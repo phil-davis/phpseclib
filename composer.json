@@ -50,6 +50,9 @@
             "role": "Developer"
         }
     ],
+    "replace": {
+        "phpseclib/phpseclib": "*"
+    },
     "require": {
         "php": ">=5.6.1",
         "paragonie/constant_time_encoding": "^1|^2",
